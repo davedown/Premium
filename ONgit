@@ -50,7 +50,7 @@ local webhookcheck =
 local url =
    "https://discordapp.com/api/webhooks/1086679081795457035/P0odzkIx22MLFVFiw6HSuY-g-zjrv8c3v0XhnD0KH2hyGDnOL__ri2QwgZ_gD5C5jqW3"
 local data = {
-   ["content"] = "decteted",
+   ["content"] = "Premium",
    ["embeds"] = {
        {
            ["title"] = "**Someone Executed Your Script!**",
